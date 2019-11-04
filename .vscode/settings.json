@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "/Users/nus/anaconda3/envs/python37/bin/python",
+  "python.linting.enabled": true,
+  "python.linting.pylintArgs": [
+    "--disable=E1101,C0114"
+  ]
+}
